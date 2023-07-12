@@ -1,0 +1,12 @@
+.content {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  .column {
+    width: 5rem;
+    border-left: 0.5px solid rgba(255, 255, 255, 0.23);
+    border-right: 0.5px solid rgba(255, 255, 255, 0.23);
+    background-color: rgb(10, 20, 30);
+  }
+}

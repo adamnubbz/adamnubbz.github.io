@@ -1,0 +1,13 @@
+.background {
+  z-index: -1;
+  position: absolute;
+  height: 100dvh;
+  width: 100dvw;
+  background: url("../../assets/background_image.jpg") 100% 100% / 100% 100%;
+  img {
+    max-inline-size: 100%;
+    block-size: auto;
+    height: 20rem;
+    margin: auto;
+  }
+}
