@@ -22,12 +22,13 @@ function About() {
             Software Engineer I in RIS (Retirement & Income Solutions).
           </p>
           <p className="profile-text">
-            'Learning is a lifelong journey' is perenially true, but I found it
-            incredibly relevant at my first job out of school. Though I was
+            The adage 'Learning is a lifelong journey' is perennially true, but
+            I certainly found it relevant at my first job at PFG. Though I was
             figuring out how to pedal as I biked, I had plenty of great senior
-            devs and mentors that helped me out! During my tenure at Principal,
-            I grew to Software Engineer II as well as Scrum Lead. I decided to
-            leave in 2021 as the COVID-19 pandemic continued to take its toll.
+            developers and mentors that helped me out. I was promoted to
+            Software Engineer II as well as Scrum Lead during my time at
+            Principal. I decided to leave in 2021 as the COVID-19 pandemic
+            continued to take its toll.
           </p>
           <p className="profile-text">
             I've spent the time since caring for family and as a coding
