@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.346409fe.js",
-    "static/js/787.a92424ff.chunk.js": "/static/js/787.a92424ff.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/static/css/main.1b684388.css",
+    "main.js": "/static/js/main.78776148.js",
+    "static/media/background_image.jpg": "/static/media/background_image.763d81457552d8febbff.jpg",
+    "static/media/pokedex_screenshot.jpg": "/static/media/pokedex_screenshot.84a85b2ce1df0ba6244f.jpg",
+    "static/media/jammming_screenshot.jpg": "/static/media/jammming_screenshot.4896ca606957e0436210.jpg",
+    "static/media/adam_profile.jpg": "/static/media/adam_profile.3cc731b7f55fdeddeb1d.jpg",
+    "static/media/icon.jpg": "/static/media/icon.b5a21f71e9fb13fc47f0.jpg",
+    "static/media/compendium_screenshot.jpg": "/static/media/compendium_screenshot.9cb5a0d9e29af486312b.jpg",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.346409fe.js.map": "/static/js/main.346409fe.js.map",
-    "787.a92424ff.chunk.js.map": "/static/js/787.a92424ff.chunk.js.map"
+    "main.1b684388.css.map": "/static/css/main.1b684388.css.map",
+    "main.78776148.js.map": "/static/js/main.78776148.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.346409fe.js"
+    "static/css/main.1b684388.css",
+    "static/js/main.78776148.js"
   ]
 }
