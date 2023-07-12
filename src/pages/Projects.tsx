@@ -30,7 +30,7 @@ function Projects() {
             <Card.Footer>
               <Button
                 variant="primary"
-                href="https://github.com/adamnubbz/jammming"
+                href="https://github.com/adamnubbz/compendium"
                 target="_blank"
               >
                 Go to Compendium
